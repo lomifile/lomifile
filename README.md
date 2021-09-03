@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Filip from Rijeka, Croatia.
+I'm Filip from Bjelovar, Croatia currently living in Rijeka, Croatia.
 
 <p>
   <table="right">
