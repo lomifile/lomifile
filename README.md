@@ -18,6 +18,6 @@ My name is Filip, and I am 3rd year student at Polytechnic of Rijeka and softwar
 ![](https://img.shields.io/badge/Editor-neovim-blue?style=for-the-badge&logo=neovim&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Terminal--Emulator-alacritty-blue?style=for-the-badge&logo=alacritty&logoColor=white&color=blue)
 
-How I set it up?
+# How I set it up?
 
 [![My dotfiles repo](https://github-readme-stats.vercel.app/api/pin/?username=fivanusec&repo=My-dotfiles&theme=dark&bg_color=0d1117&show_icons=true)](https://github.com/fivanusec/My-dotfiles)
