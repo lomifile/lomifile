@@ -9,7 +9,7 @@
 </table>
 </p>
 
-My name is Filip, and I am 3rd year student at Polytechnic of Rijeka and software developer at Studentski centar Rijeka.
+My name is Filip, and I am 3rd year student at Polytechnic of Rijeka.
 
 # My tech stack to get job done
 
