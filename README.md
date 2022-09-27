@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Filip Ivanušec
-======================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Filip Ivanušec, bacc.ing.telem
+=========================================================================================================================================================
 
-Student and Software developer @Tria
+Software developer @Tria
 ------------------------------------
 
 I mostly do web development, but you can catch me doing a little bit of everything. Why? Well I like to read, explore and see what capabilities I have. I love to work in Typescript/Javascript for web development as they are super fun to work with but sometimes I will lean on python if I see I can do something better with it.
