@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 bacc. ing. telem, developer
 ---------------------------
 
-I am a full-stack web developer from Croatia. I mostly do web development these days but you can catch me doing something else. I mostly code in Typescript for most of my job and side projects, but when I need to I can switch to python and C/C++.
+I am a full-stack web developer from Croatia. I mostly do web development these days but you can catch me doing something else. I mostly code in Typescript for most of my job and side projects, but when I need to I can switch to Go.
 
 *   🌍  I'm based in Croatia
 *   ✉️  You can contact me at [fivanusec](mailto:fivanusec)
